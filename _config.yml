@@ -1,8 +1,8 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: FOTOS Y PAISAJES
-email: your-email@domain.com
-brand: fOTOS Y PAISAJES DEL MUNDO
+email: 16670322@itiguala.edu.mx.com
+brand: FOTOS Y PAISAJES DEL MUNDO
 headline: Fotografias y paisajes que te transportan...
 description: > # this means to ignore newlines until "baseurl:"
   New Site
